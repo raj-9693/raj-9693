@@ -1,5 +1,4 @@
 
-```markdown
 <h1 align="center">Hi 👋, I'm Raj Kumar Nishad</h1>
 <h3 align="center">🚀 Kotlin-Powered Android Developer | Exploring Firebase & MVVM</h3>
 
@@ -76,4 +75,4 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=raj-9693&label=Profile+Views&color=brightgreen&style=flat" />
 </p>
-```
+
