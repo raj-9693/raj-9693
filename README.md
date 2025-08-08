@@ -1,12 +1,4 @@
 
-
-
-<h1 align="center">Hi 👋, I'm RAJ KUMAR NISHAD</h1>
-<h3 align="center">Aspiring Android Developer | Exploring Kotlin, Firebase & MVVM</h3>
-
-<img align="right" alt="coding" width="350" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-
-
 <h1 align="center">Hi 👋, I'm Raj Kumar Nishad</h1>
 <h3 align="center">🚀 Aspiring Android Developer | Exploring Kotlin, Firebase & MVVM</h3>
 
