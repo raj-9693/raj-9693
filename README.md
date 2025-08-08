@@ -1,41 +1,34 @@
 
+```markdown
 <h1 align="center">Hi 👋, I'm Raj Kumar Nishad</h1>
-<h3 align="center">🚀 Aspiring Android Developer | Exploring Kotlin, Firebase & MVVM</h3>
+<h3 align="center">🚀 Kotlin-Powered Android Developer | Exploring Firebase & MVVM</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&width=440&lines=Building+Real-World+Android+Apps;Learning+Kotlin+%7C+Firebase+%7C+MVVM;Open+to+Collaboration+%26+Projects!" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250">
 </p>
 
 ---
 
-<img align="right" alt="coding" width="350" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-
-### 👨‍💻 About Me
-
-- 🔭 I’m currently working on:  
-  [Student Info App - CRUD using Room DB](https://github.com/raj-9693/Student_info)
-
-- 🌱 Currently learning:  
-  MVVM, Firebase Auth, Retrofit API, Jetpack Compose
-
-- 👯 Looking to collaborate on:  
-  Fitness Tracker App *(Coming Soon)*
-
-- 💬 Ask me about:  
-  Android Studio, Kotlin basics, Firebase Auth, Room DB
-
-- 📫 How to reach me:  
-  [LinkedIn](https://linkedin.com/in/raj-kumar-nishad) | [GitHub](https://github.com/raj-9693)
-
-- 👨‍💻 Portfolio:  
-  [https://github.com/raj-9693](https://github.com/raj-9693)
-
-- ⚡ Fun fact:  
-  I’m building real-world apps while still in college 😄
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&width=440&lines=Android+Developer+%7C+Kotlin+Lover;Learning+Firebase+and+MVVM;Open+to+Internships+%26+Projects!" />
+</p>
 
 ---
 
-### 🛠️ Languages and Tools
+## 🧑‍💻 About Me
+
+- 🎓 I'm a Computer Science student passionate about Android Development
+- 🔭 Currently working on: [Student Info App](https://github.com/raj-9693/Student_info)
+- 👯 Looking to collaborate on: Beginner-friendly Android Projects
+- 🌱 Learning: Firebase Auth, Jetpack Compose, Retrofit, MVVM
+- 💬 Ask me about: Android Studio, Kotlin basics, Room DB
+- 📫 Reach me at: [raj9693@gmail.com](mailto:raj9693@gmail.com)
+- 🌐 Portfolio: [https://github.com/raj-9693](https://github.com/raj-9693)
+- ⚡ Fun fact: I’m building real-world apps while still in college 😄
+
+---
+
+## 🚀 Languages and Tools
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40" height="40"/>
@@ -43,39 +36,44 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
 </p>
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=raj-9693&show_icons=true&theme=tokyonight" alt="stats"/>
-</p>
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raj-9693&theme=tokyonight" alt="streak"/>
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=raj-9693&layout=compact&theme=tokyonight" alt="languages"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=raj-9693&show_icons=true&theme=tokyonight" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raj-9693&theme=tokyonight" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=raj-9693&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-### 🏆 GitHub Trophy
+## 🏆 GitHub Trophy
 
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=raj-9693&theme=tokyonight&row=1&margin-w=15" />
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=raj-9693&theme=tokyonight&no-frame=true&column=6" />
 </p>
 
 ---
 
-### 📈 Profile Views
+## 🔗 Connect with Me
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=raj-9693&label=Visitors&color=0e75b6&style=flat-square" alt="raj-9693" />
+  <a href="https://linkedin.com/in/raj-kumar-nishad" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" />
+  </a>
+  <a href="mailto:raj9693@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail" />
+  </a>
 </p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=raj-9693&label=Profile+Views&color=brightgreen&style=flat" />
+</p>
+```
