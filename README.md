@@ -6,7 +6,7 @@
 
 <!-- Profile Image -->
 <p align="center">
-  <img src="https://i.postimg.cc/vmPt7Rc3/IMG-20250809-WA0114.jpg" width="220" style="border-radius: 50%;" alt="Profile Image" />
+  <img src="https://i.postimg.cc/vmPt7Rc3/IMG-20250809-WA0114.jpg" width="2500">
 </p>
 
 <!-- Second Typing Animation -->
