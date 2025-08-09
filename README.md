@@ -1,7 +1,19 @@
 
-<h1 align="center">Hi 👋, I'm Raj Kumar Nishad</h1>
-<h3 align="center">🚀 Kotlin-Powered Android Developer | Exploring Firebase & MVVM</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&width=440&lines=Android+Developer+%7C+Kotlin+Lover;Learning+Firebase+and+MVVM;Open+to+Internships+%26+Projects!" />
+</p>
+
+
 <img src="https://i.postimg.cc/vmPt7Rc3/IMG-20250809-WA0114.jpg" width="2500">
+
+<p align="center">
+  <img src="https://i.postimg.cc/vmPt7Rc3/IMG-20250809-WA0114.jpg" width="250">
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF4DD2&center=true&vCenter=true&width=500&lines=%F0%9F%9A%80+Aspiring+Android+Developer;Kotlin+%7C+Firebase+%7C+MVVM+Architecture;Learning+Retrofit+%26+Jetpack+Compose" alt="Typing SVG" />
+</p>
+
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250">
@@ -9,9 +21,7 @@
 
 ---
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&width=440&lines=Android+Developer+%7C+Kotlin+Lover;Learning+Firebase+and+MVVM;Open+to+Internships+%26+Projects!" />
-</p>
+
 
 ---
 
