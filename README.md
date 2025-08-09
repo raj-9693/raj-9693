@@ -9,9 +9,7 @@
   <img src="https://i.postimg.cc/vmPt7Rc3/IMG-20250809-WA0114.jpg" width="2500" alt="Profile Image"/>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=%F0%9F%9A%80+Aspiring+Android+Developer+%7C+Kotlin+%E2%80%A2+Firebase+%E2%80%A2+MVVM" alt="typing"/>
-</p>
+
 
 <!-- Second Typing Animation -->
 <p align="center">
