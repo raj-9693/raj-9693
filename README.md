@@ -20,7 +20,7 @@
 
 ## 🧑‍💻 About Me
 - 🎓 Computer Science student passionate about Android Development  
-- 🔭 Currently working on: [Student Info App](https://github.com/raj-9693/Student_info)  
+- 🔭 Currently working on: [Fitness tracking App](https://github.com/raj-9693/Student_info)  
 - 👯 Looking to collaborate on beginner-friendly Android Projects  
 - 🌱 Learning: Firebase Auth, Jetpack Compose, Retrofit, MVVM  
 - 💬 Ask me about: Android Studio, Kotlin basics, Room DB  
