@@ -24,7 +24,7 @@
 - 👯 Looking to collaborate on beginner-friendly Android Projects  
 - 🌱 Learning: Firebase Auth, Jetpack Compose, Retrofit, MVVM  
 - 💬 Ask me about: Android Studio, Kotlin basics, Room DB  
-- 📫 Reach me at: **[raj9693@gmail.com](mailto:raj9693@gmail.com)**  
+- 📫 Reach me at: **[rajnishad96930@gmail.com](mailto:rajnishad96930@gmail.com)**  
 - 🌐 Portfolio: [My GitHub](https://github.com/raj-9693)  
 - ⚡ Fun fact: Building real-world apps while still in college 😄  
 
@@ -77,7 +77,7 @@
   <a href="https://linkedin.com/in/raj-kumar-nishad">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="mailto:raj9693@gmail.com">
+  <a href="mailto:rajnishad96930@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail" />
   </a>
 </p>
