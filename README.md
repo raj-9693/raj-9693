@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Raj Kumar Nishad</h1>
 <h3 align="center">🚀 Kotlin-Powered Android Developer | Exploring Firebase & MVVM</h3>
-<img src="https://i.postimg.cc/vmPt7Rc3/IMG-20250809-WA0114.jpg" width="250">
+<img src="https://i.postimg.cc/vmPt7Rc3/IMG-20250809-WA0114.jpg" width="2500">
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250">
