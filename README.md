@@ -26,7 +26,7 @@
 - 🎓 Computer Science student passionate about Android Development  
 - 🔭 Currently working on: [Fitness tracking App](https://github.com/raj-9693/Student_info)  
 - 👯 Looking to collaborate on beginner-friendly Android Projects  
-- 🌱 Learning: Firebase Auth, Jetpack Compose, Retrofit, MVVM  
+- 🌱 Learning: Firebase Auth, Coroutines , Retrofit, MVVM  
 - 💬 Ask me about: Android Studio, Kotlin basics, Room DB  
 - 📫 Reach me at: **[rajnishad96930@gmail.com](mailto:rajnishad96930@gmail.com)**  
 - 🌐 Portfolio: [My GitHub](https://github.com/raj-9693)  
