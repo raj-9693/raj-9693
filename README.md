@@ -13,7 +13,8 @@
 
 <!-- Second Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF4DD2&center=true&vCenter=true&width=500&lines=%F0%9F%9A%80+Aspiring+Android+Developer;Kotlin+%7C+Firebase+%7C+MVVM+Architecture;Learning+Retrofit+%26+Jetpack+Compose" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF4DD2&center=true&vCenter=true&width=500&lines=%F0%9F%9A%80+Aspiring+Android+Developer;Kotlin+%7C+
+    Firebase+%7C+MVVM+Architecture alt="Typing SVG" />
 </p>
 
 ---
