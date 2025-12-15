@@ -1,7 +1,7 @@
 
 <!-- Banner Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=550&lines=Android+Developer+%7C+Kotlin+Lover;Learning+Firebase+and+MVVM;Open+to+Internships+%26+Projects!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=550&lines=Android+Developer+%7C+Kotlin+Lover;Learning+Firebase+and+Coroutines;Open+to+Internships+%26+Projects!" />
 </p>
 
 <!-- Profile Image -->
